@@ -1,0 +1,28 @@
+{
+  "name": "my-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "my-vue": "bin/cli.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.0.0"
+  },
+  "devDependencies": {
+    "cross-spawn": "^7.0.3",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.1",
+    "log-symbols": "^5.1.0",
+    "ora": "^6.1.0"
+  },
+  "keywords": [],
+  "description": ""
+}
