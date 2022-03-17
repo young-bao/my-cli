@@ -1,5 +1,5 @@
 {
-  "name": "my-cli",
+  "name": "mycli",
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
